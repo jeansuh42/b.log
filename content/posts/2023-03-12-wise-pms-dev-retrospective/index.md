@@ -6,9 +6,9 @@ cover: ../../images/sea.jpeg
 generate-card: false
 language: ko
 tags:
+- 회고
 - WISE PMS
 - BE
-- 회고
 ---
 
 
